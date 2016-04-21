@@ -1,0 +1,28 @@
+name: Antarctica
+favicon: null
+layout_spectrum: 0.004549981094896793
+typography_spectrum: 0.22158036101609468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9602182381786406
+  lightness: 0.558509211987257
+  saturation: 0.05878840293735266
+  rhythmicContrast: 0.9003672895487398
+purpose: []
